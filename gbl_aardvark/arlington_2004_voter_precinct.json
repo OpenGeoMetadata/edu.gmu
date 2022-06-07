@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Voting Precinct, Arlington County, VA",
+  "dct_description_sm": [
+    "The Polygon represents Voting Precinct areas in Arlington County, VA."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "election",
+    "boundary"
+  ],
+  "gbl_indexYear_im": [
+    169
+  ],
+  "locn_geometry": "ENVELOPE(-77.173474024, -77.030478078, 38.934896504, 38.8267627)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_voter_precinct",
+  "id": "gmu-arlington-2004-voter-precinct",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_voter_precinct"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0169-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

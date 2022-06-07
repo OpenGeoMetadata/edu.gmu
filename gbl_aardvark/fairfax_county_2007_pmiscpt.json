@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Cartographic Points, Fairfax County, VA",
+  "dct_description_sm": [
+    "This dataset represents the Cartographic points in the Fairfax county, VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Lines"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.5358, -77.0354, 39.0584, 38.6246)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_pmiscpt",
+  "id": "gmu-fairfax-county-2007-pmiscpt",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_pmiscpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

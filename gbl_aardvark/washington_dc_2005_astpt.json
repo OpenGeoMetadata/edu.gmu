@@ -1,0 +1,40 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Hazardous Material locations, Washington, DC 2005",
+  "dct_description_sm": [
+    "This dataset represent the location of SARA Title III Hazardous Material locations (above ground) in Washington, DC 2005\n\nA dataset listing provided by DC FEMS identified above ground Hazardous Material locations.   The dataset provides and standardized address generated during geocoding as well as the original source address information.  In addition, attibute information also includes points of contact information for each site listing"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Hazardous",
+    "",
+    "Chemical",
+    "Storage Tank",
+    "Above Ground",
+    "Environment"
+  ],
+  "gbl_indexYear_im": [
+    5
+  ],
+  "locn_geometry": "ENVELOPE(-77.1112, -76.9589, 38.9659, 38.8174)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_astpt",
+  "id": "gmu-washington-dc-2005-astpt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_astpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

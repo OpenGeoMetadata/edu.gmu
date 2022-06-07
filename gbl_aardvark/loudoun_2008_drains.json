@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Drainage,  Loudoun County, VA 2007",
+  "dct_description_sm": [
+    "Drainage is a base map data layer derived by automated processes and processed for cartographic representation at 1:2400 scale.  The line features represent the any visible surface drainage feature, natural or manmade, as seen from above and are mapped to National Map Accuracy Standards (NMAS).\n \nDrainage arcs must logically follow topo contours downhill and are not disconnected when traveling through culverts, under bridges or representing the centerline of double-line streams and ponds.  Drain arcs will be captured according to proper orientation or direction of flow.\n   \nPhotogrammetrically derived drainage DOES includes known underground culvert and pipe connections with stormwater infrastructure points and other visible surface outlets.  This drainage layer DOES NOT include subsurface groundwater flow, fine soil drain patterns in swales, or any other historical surface drains."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "hydrology",
+    "surface flow"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "locn_geometry": "ENVELOPE(-77.9635, -77.314, 39.3284, 38.8369)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_drains",
+  "id": "gmu-loudoun-2008-drains",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_drains"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

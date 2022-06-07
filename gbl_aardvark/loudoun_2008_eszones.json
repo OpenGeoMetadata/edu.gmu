@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Loudon County,VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Elementary School Attendance Zones,  Loudoun County, VA 2008",
+  "dct_description_sm": [
+    "This file contains every elementary school attendance zone for the Loudoun County Public School System (LCPS).  These attendance zones are updated on a yearly basis and are valid for the current school year only."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Elementary School",
+    "School",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_eszones",
+  "id": "gmu-loudoun-2008-eszones",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_eszones"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2008-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

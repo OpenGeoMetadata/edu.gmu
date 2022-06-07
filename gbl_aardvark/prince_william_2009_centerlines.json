@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Roads, Prince William County, VA",
+  "dct_description_sm": [
+    "This dataset is a line feature class representing the street center lines contained within Prince William County,VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "Street",
+    "Transportation"
+  ],
+  "gbl_indexYear_im": [
+    1987
+  ],
+  "locn_geometry": "ENVELOPE(-77.7154, -77.219, 38.9437, 38.4953)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":prince_william_2009_centerlines",
+  "id": "gmu-prince-william-2009-centerlines",
+  "dct_identifier_sm": [
+    "GMU.prince_william_2009_centerlines"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1987-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

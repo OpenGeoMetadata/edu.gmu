@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Point Location of Public School, Washington, DC 2005",
+  "dct_description_sm": [
+    "This dataset represents the point locations of public schools in Washington, DC 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Elementary",
+    "High School",
+    "Junior"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.1008, -76.7784, 39.1088, 38.8237)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_pubschpt",
+  "id": "gmu-washington-dc-2005-pubschpt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_pubschpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

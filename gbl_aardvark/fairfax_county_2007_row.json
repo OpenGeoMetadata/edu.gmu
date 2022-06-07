@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Public Right of Way, Fairfax County, VA",
+  "dct_description_sm": [
+    "This polygon layer represents the public rights of way in the county of Fairfax,VA. These areas are typically the areas that are not part of a parcel or common area. Mostly they are where public roadways exist."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Right of way",
+    "Roadway",
+    "Public"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.5186, -77.0361, 39.0536, 38.6345)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_row",
+  "id": "gmu-fairfax-county-2007-row",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_row"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

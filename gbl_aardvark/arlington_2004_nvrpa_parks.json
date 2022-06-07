@@ -1,0 +1,32 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "NVRPA Parks",
+  "dct_description_sm": [
+    "This polygon represents Northern Virginia Regional Park Authority Parks in Arlington County, VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Recreation"
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "locn_geometry": "ENVELOPE(-77.1549, -77.0777, 38.9178, 38.8429)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_nvrpa_parks",
+  "id": "gmu-arlington-2004-nvrpa-parks",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_nvrpa_parks"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

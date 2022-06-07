@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Architect of the Capitol jurisdiction, Washington, DC 2001",
+  "dct_description_sm": [
+    "This dataset represents the boundary the Architect of the Capitol jurisdiction in Washington, DC 2001\n\nThe boundary was identified from public records (including the Architect's http://www.aoc.gov/cc/cc_map.htm ) and heads-up digitized using a combination of the 1995/1999 orthophotographs and planimetric roads features.\n\nAll DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Government jurisdictions",
+    "Architect of the Capitol"
+  ],
+  "gbl_indexYear_im": [
+    2
+  ],
+  "locn_geometry": "ENVELOPE(-77.0152, -77.002, 38.8975, 38.8794)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_aocply",
+  "id": "gmu-washington-dc-2005-aocply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_aocply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

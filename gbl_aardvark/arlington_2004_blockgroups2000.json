@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Block groups 2000, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon layer represents Blockgroup boundary  2000,  Arlington County, VA.  The definition of table data is available via CENSUS_TRACK_Table_2000."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "biota"
+  ],
+  "gbl_indexYear_im": [
+    168
+  ],
+  "locn_geometry": "ENVELOPE(-77.173504724, -77.030477784, 38.934894057, 38.826789958)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_blockgroups2000",
+  "id": "gmu-arlington-2004-blockgroups2000",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_blockgroups2000"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0168-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

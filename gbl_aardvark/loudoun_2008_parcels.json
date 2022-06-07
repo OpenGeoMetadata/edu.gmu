@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Parcels, Loudoun County, VA 2008",
+  "dct_description_sm": [
+    "This data layer contains all parcel boundaries for Loudoun County, VA.  A parcel is a tract or plot of land surveyed and defined by legal ownership.  Data were compiled from plats and deeds recorded at the Clerk of the Court and from historic tax maps. Source material was digitized or the coordinates were entered into the database via ARC/INFO Coordinate Geometry (COGO).  Digital data from engineering companies has also been incorporated for newer subdivisions.  A MCPI number is used to identify each parcel, which is a 9 digit unique parcel ID that is a combination of: MAP, CELL, and PARCEL. MAP: 3 digit map number (001-701) corresponding with map tile index. CELL: 2 digit map grid location of parcel center; the grid is comprised of 1000 by 1000 ft grid cells numbered as rows and columns (Columns numbered > 5 6 7 8 9 0; Rows numbered > 1 2 3 4). PARCEL: 4 digit location of polygon center based on the 1983 Virginia State Plane coordinate grid where an easting and northing measurement is taken. \nHorizontal Datum:  NAD83 HARN, SPCS VA North, FIPS Zone 4501, US Survey Feet\nVertical Datum (if applicable): NAVD88.\n   The MAP, CELL, and PARCEL values of a parcel do not change when a parcel is altered by a boundary line adjustment or becomes residue from a subdivision. The MAP, CELL, and PARCEL values may therefore be inconsistent with the location of polygon center. MAP, CELL, and PARCEL values have been manually altered for some parcels to agree with other databases; as a result, not all parcels can be located by the MAP, CELL, and PARCEL values."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Property"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_parcels",
+  "id": "gmu-loudoun-2008-parcels",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_parcels"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Geology, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon represents various geology features in Arlington County, VA\n"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Environment"
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "locn_geometry": "ENVELOPE(-77.1928, -77.0302, 38.9468, 38.8124)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_geology_poly",
+  "id": "gmu-arlington-2004-geology-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_geology_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

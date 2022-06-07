@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Census tracts, Loudoun County, VA 2000",
+  "dct_description_sm": [
+    "This polygon layer represents the census tracts of Loudoun County, VA 2000"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Demography",
+    "Population"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_census_tract_2000",
+  "id": "gmu-loudoun-2008-census-tract-2000",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_census_tract_2000"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2000-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

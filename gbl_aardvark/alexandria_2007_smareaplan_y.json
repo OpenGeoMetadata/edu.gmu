@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Small Area Plans, City of Alexandria, VA 2005",
+  "dct_description_sm": [
+    "A polygon feature representing Small Area Plans for Alexandria"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Planning and Zoning",
+    "Boundaries"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.1448, -77.0367, 38.846, 38.7858)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":alexandria_2007_smareaplan_y",
+  "id": "gmu-alexandria-2007-smareaplan-y",
+  "dct_identifier_sm": [
+    "GMU.alexandria_2007_smareaplan_y"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia,",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

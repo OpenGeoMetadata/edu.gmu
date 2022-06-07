@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Business Improvement Districts, Washington, DC 2007",
+  "dct_description_sm": [
+    "This dataset represents the Business Improvement Districts in Washington, DC 2007. The dataset contains locations and attributes of the six BID jurisdictions (Downtown, Golden Triangle, Mt. Vernon Triangle, Adams Morgan, Georgetown, and NoMa), first authorized under the Business Improvement Districts Act of 1996, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies.  This layer also contains the Mt. Vernon Community Improvement District (CID)."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Special jurisdictions",
+    "Special taxing area",
+    "society"
+  ],
+  "gbl_indexYear_im": [
+    7
+  ],
+  "locn_geometry": "ENVELOPE(-77.0715, -76.9814, 38.9267, 38.878)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_dcgis_bidply",
+  "id": "gmu-washington-dc-2005-dcgis-bidply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_dcgis_bidply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

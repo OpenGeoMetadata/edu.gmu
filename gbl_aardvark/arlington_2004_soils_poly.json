@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Soils, Arlington County, VA",
+  "dct_description_sm": [
+    "Arlington County Soils (Survey data base)."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "farming",
+    "soils"
+  ],
+  "gbl_indexYear_im": [
+    180
+  ],
+  "locn_geometry": "ENVELOPE(-77.173512101, -77.030478106, 38.934895568, 38.826791527)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_soils_poly",
+  "id": "gmu-arlington-2004-soils-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_soils_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0180-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA",
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Metroline Node, Arlington County, VA",
+  "dct_description_sm": [
+    "This point layer represents metro line nodes in Arlington County, VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Metro line node"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.1755, -77.0365, 38.9015, 38.84)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_metroline_node",
+  "id": "gmu-arlington-2004-metroline-node",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_metroline_node"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

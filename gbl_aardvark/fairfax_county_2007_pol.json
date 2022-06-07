@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Political Jurisdiction, Fairfax County, VA 1996",
+  "dct_description_sm": [
+    "Geographic boundary, portraying extent and limits of land recognized as Fairfax County, Commonwealth of Virginia.  Defined in part by both physical features (Potomac and Occoquan Rivers), and monumented legal boundaries for surrounding jurisdictions (State of Maryland, Arlington, Loudoun, and Prince William Counties, cities of Alexandria and Falls Church)."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Fairfax County line",
+    "County Boundary",
+    "Political "
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "locn_geometry": "ENVELOPE(-77.5402, -77.028, 39.0595, 38.6017)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_pol",
+  "id": "gmu-fairfax-county-2007-pol",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_pol"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2000-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

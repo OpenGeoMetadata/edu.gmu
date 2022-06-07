@@ -1,0 +1,39 @@
+{
+  "dc_publisher_s": "DC GIS",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Fire and Emergency Medical Services Stations, Washington, DC 2007",
+  "dct_description_sm": [
+    "The dataset contains locations and attributes of Fire and Emergency Medical Services Department in Washington, DC 2007"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Ambulance",
+    "Government facilities",
+    "Fire Department",
+    "Fire and Emergency Services Department",
+    "Emergency Services Department"
+  ],
+  "gbl_indexYear_im": [
+    7
+  ],
+  "locn_geometry": "ENVELOPE(-77.0936, -76.9333, 38.96, 38.8309)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_dcgis_firestnpt",
+  "id": "gmu-washington-dc-2005-dcgis-firestnpt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_dcgis_firestnpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "ADC",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Golf Course, Washington, DC 2002",
+  "dct_description_sm": [
+    "This dataset represents the Golf course locations in Washington, DC 2002"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Golf courses",
+    "Recreation",
+    "Sports"
+  ],
+  "gbl_indexYear_im": [
+    2
+  ],
+  "locn_geometry": "ENVELOPE(-77.0462, -76.9577, 38.9698, 38.8611)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_golfcourseply",
+  "id": "gmu-washington-dc-2005-golfcourseply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_golfcourseply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

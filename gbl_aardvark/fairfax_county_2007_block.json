@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Subdivision Blocks, Fairfax County, VA 1999",
+  "dct_description_sm": [
+    "This layer contains data defining the exterior boundaries of subdivided land within subdivisions in Fairfax County, Virginia.  The Block layer was created to depict subdivided land areas withing subdivision defined by recorded documents (plats) for the County of Fairfax.  The polygons portrayed on this layer define the third portion of the County?s Parcel Identification Numbering system (Map / Subdivision / Block / Parcel).  Information portrayed on this layer was initially derived from the ink-on-mylar property maps maintained by the County since the early 1960?s."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Block",
+    "Subdivision"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "locn_geometry": "ENVELOPE(-77.4946, -77.0359, 39.0531, 38.6405)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_block",
+  "id": "gmu-fairfax-county-2007-block",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_block"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

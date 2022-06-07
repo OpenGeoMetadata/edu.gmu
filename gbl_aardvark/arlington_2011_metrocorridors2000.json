@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Metro Corridors, Arlington County, VA 2006",
+  "dct_description_sm": [
+    "This dataset represents the Metro station areas in Arlington County, VA 2006"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Location",
+    "Station"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "locn_geometry": "ENVELOPE(-77.123, -77.0412, 38.9014, 38.8402)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_metrocorridors2000",
+  "id": "gmu-arlington-2011-metrocorridors2000",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_metrocorridors2000"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

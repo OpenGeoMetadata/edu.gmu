@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Streams, Arlington County, VA",
+  "dct_description_sm": [
+    "This polyline represents Arlington County streams and culverts."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "streams"
+  ],
+  "gbl_indexYear_im": [
+    174
+  ],
+  "locn_geometry": "ENVELOPE(-77.171756976, -77.042285972, 38.933481609, 38.839447618)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_streams",
+  "id": "gmu-arlington-2004-streams",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_streams"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0174-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

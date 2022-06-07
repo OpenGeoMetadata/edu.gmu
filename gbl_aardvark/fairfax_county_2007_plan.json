@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Planning Areas,Fairfax County, VA",
+  "dct_description_sm": [
+    "This dataset represents the four planning areas in Fairfax County, VA. Each area is a part of the overall County comprehensive plan."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Plan",
+    "Areas"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.54, -77.0348, 39.0595, 38.6131)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_plan",
+  "id": "gmu-fairfax-county-2007-plan",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_plan"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

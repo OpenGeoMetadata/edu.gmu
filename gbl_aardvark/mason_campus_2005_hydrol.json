@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "hydrology line of George Mason University Fairfax Campus, Fairfax, VA 2005",
+  "dct_description_sm": [
+    "This line data represents water line running across the GMU campus, Fairfax, VA 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "water line",
+    "hydrology"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.3116, -77.3036, 38.8337, 38.8273)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":mason_campus_2005_hydrol",
+  "id": "gmu-mason-campus-2005-hydrol",
+  "dct_identifier_sm": [
+    "GMU.mason_campus_2005_hydrol"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "George Mason University"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

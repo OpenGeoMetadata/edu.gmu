@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Zip codes, City of Alexandria,VA 2005",
+  "dct_description_sm": [
+    "This Polygon layer contains the boundaries of the five United States Postal Service (USPS) ZIP code areas in the City of Alexandria, VA."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "Zip code",
+    "Boundaries"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.1448, -77.0367, 38.8459, 38.7851)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":alexandria_2007_truezip_y",
+  "id": "gmu-alexandria-2007-truezip-y",
+  "dct_identifier_sm": [
+    "GMU.alexandria_2007_truezip_y"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia,VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

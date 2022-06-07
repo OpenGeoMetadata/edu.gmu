@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Firebox, Arlington County, VA 2005",
+  "dct_description_sm": [
+    "This dataset represents the Fire Department's 4 digit Fire Box Identification number in Arlington County, VA 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Fire Department",
+    "ID number"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.1669, -77.0372, 38.9322, 38.8315)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_firebox_anno",
+  "id": "gmu-arlington-2011-firebox-anno",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_firebox_anno"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

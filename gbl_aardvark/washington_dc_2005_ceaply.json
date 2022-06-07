@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Central Employment Area, Washington, DC 2005",
+  "dct_description_sm": [
+    "The polygon layer represents the location and attributes of Central Employment Area in Washington, DC 2002"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Central employment area"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "locn_geometry": "ENVELOPE(-77.0539, -76.987, 38.9108, 38.8605)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_ceaply",
+  "id": "gmu-washington-dc-2005-ceaply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_ceaply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

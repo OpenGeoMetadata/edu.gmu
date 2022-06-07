@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Community Gardens, Arlington County, VA 2008",
+  "dct_description_sm": [
+    "This polygon layer depicts the community garden lands run by DPRCR in Arlington County, VA 2008"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Gardens",
+    "Public Facilities"
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "locn_geometry": "ENVELOPE(-77.1446, -77.0645, 38.9018, 38.8451)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_community_gardens",
+  "id": "gmu-arlington-2011-community-gardens",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_community_gardens"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2008-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

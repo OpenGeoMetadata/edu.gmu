@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Office of the Chief Technology Officer",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Point Location of Miscellaneous Layers, Washington, DC 2002",
+  "dct_description_sm": [
+    "This dataset represents the point locations of statues, planters, benches, Bollard, etc in Washington, DC 2002"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Geographic Information System",
+    "Planimetrics"
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "locn_geometry": "ENVELOPE(-77.1155, -76.9097, 38.9953, 38.7976)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_miscpt",
+  "id": "gmu-washington-dc-2005-miscpt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_miscpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1999-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

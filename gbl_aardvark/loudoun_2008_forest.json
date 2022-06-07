@@ -1,0 +1,43 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Forest Tracts,  Loudoun County, VA (2007)",
+  "dct_description_sm": [
+    "Forest tracts is a base map data layer derived by automated processes and processed for cartographic representation at 1:2400 scale.  The polygon features represent the areas of forest or scrub cover as seen from above and are mapped to National Map Accuracy Standards (NMAS)."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "biota",
+    "Forest",
+    "Scrub",
+    "vegetation",
+    "tree cover",
+    "Forestry",
+    "hedgerow",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "locn_geometry": "ENVELOPE(-77.9645, -77.314, 39.3299, 38.8369)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_forest",
+  "id": "gmu-loudoun-2008-forest",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_forest"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Loudoun County",
+    ""
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

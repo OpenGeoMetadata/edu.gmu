@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Public Parks, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon represents Arlington Public Parks created by or for the Department of Parks, Recreation and Community Resources and maintained by the County and the Northern VA Regional Park Authority.\n   "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "parks"
+  ],
+  "gbl_indexYear_im": [
+    192
+  ],
+  "locn_geometry": "ENVELOPE(-77.173394298, -77.048124577, 38.931097203, 38.83336478)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_public_parks",
+  "id": "gmu-arlington-2004-public-parks",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_public_parks"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0192-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

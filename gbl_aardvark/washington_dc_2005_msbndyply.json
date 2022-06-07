@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Middle School Boundary, Washington, DC 2005",
+  "dct_description_sm": [
+    "This dataset represents the boundaries of Middle School in Washington, DC 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "DC Public Schools",
+    "Middle",
+    "Junior High",
+    "Education"
+  ],
+  "gbl_indexYear_im": [
+    5
+  ],
+  "locn_geometry": "ENVELOPE(-77.1191, -76.9088, 38.9959, 38.7917)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_msbndyply",
+  "id": "gmu-washington-dc-2005-msbndyply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_msbndyply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Sanitary Sewer Manholes,  Lovettsville, VA, 2008",
+  "dct_description_sm": [
+    "This feature class identifies all of the sanitary sewer manholes in the town of Lovettsville, VA.  It also includes information on the diameter, depth,   ID of each manhole.  All of the manholes with an ID number are located on a 2006 sanitary sewer map of Lovettsville, VA   were collected using the map as a field guide.  All other manholes collected will be assigned an ID number at a later date."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Man hole",
+    "Sewer"
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "locn_geometry": "ENVELOPE(-77.6502, -77.6328, 39.2845, 39.2613)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_lville_sanitary_manholes",
+  "id": "gmu-loudoun-2008-lville-sanitary-manholes",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_lville_sanitary_manholes"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2008-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

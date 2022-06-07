@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Recorded Flood Plains,Fairfax County, VA 1996",
+  "dct_description_sm": [
+    "Floodplain delineations were first added to the County tax maps in the 1970's for creeks and streams with watersheds of 1 square mile or greater. In 1977 all the studies on these large streams had been completed and a \"Floodplain Overlay District\" was created. Within several years this floodplain overlay district was depicted on the zoning maps. Again, these delineations were only for those creeks with drainage areas of over 1 square mile. A note in a 1981 memo to the Mapping Division about these delineations said, \"...the County delineation of a Flood Plain Overlay District line on the tax map is treated here as a flag or general indicator of approximate location of this District's line.  Normal development provides 2 field run topography professionally certified on which the floodplain elevations can be more accurately determined...\"\n\nIn 1985 the Zoning Ordinance was amended, an entire section on floodplains was added to Chapter 2 and the definition of what constituted a floodplain was significantly revised. Where as the Floodplain Overlay District had principally contained only those over bank areas inundated by the 100-yr storm along streams with drainage areas of 1 square mile or greater (i.e. 640 acres), the new definition included the over bank areas inundated by the 100-year storm along creeks with drainage areas of 70 acres and greater. But this change in the definition of floodplain created a problem for those who had become dependant on the tax maps to show them whether or not there was floodplain on a given property. These newly-defined floodplains were not yet studied or mapped and would only be mapped one property at a time, as each parcel containing these smaller floodplains submitted plans for development. When such parcels were developed, floodplain studies were required, and floodplain easements (later titled \"floodplain and storm drainage easements\") were recorded around these smaller floodplains.  And as those easements were recorded, they were added to the tax maps.\n\nFor all the floodplains which have been studied since 1985, the limits of the floodplain and storm drainage easements have been added to the tax maps, when such easements were required by the County Code or the Zoning Ordinance. But if a parcel has not yet been developed or if it was developed prior to 1985, there is usually no easement around the floodplain. There are also numerous cases where, for some reason, floodplain easements were recorded along small creeks with drainage areas well below 70 acres. These recorded \"floodplain\" easements were then added to the tax maps.\n\nTHE RESULT: The tax maps cannot be used to definitively determine whether floodplain exists on a given parcel .There are approximately 900 miles of streams which meet the 70 acre  drainage area requirement for floodplains, but to date (6/2003) almost 400 of these 900 miles remain unstudied. And if a stream has never been studied, no easement would have been recorded and thus the fact that it was a floodplain would not be reflected in the tax maps. Only after a determination of the drainage area is made can one know whether the over bank areas along a given creek meet the Zoning Ordinance definition of floodplain. Further if the drainage area is over 70 acres, only a floodplain study can determine the limits of the floodplain that is, how much of the over bank areas are inundated by the peak flow of the 100-yr storm.\n\nThe layer for floodplains with drainage areas of over 1 square mile is good, but above that, it's inconsistent, especially in those areas which are minor floodplains (i.e. less than 360 acres of drainage area) and which were developed prior to 1985. The entire 850 or so miles of floodplain have not been mapped as unbroken corridors.  And the \"floodplain\" here in Fairfax County, we're using the zoning ordinance definition which is the 100-yr water surface limits along streams with drainage areas of over 70 acres.  This definition came into the zoning ordinance in 1985, so from that time, developers have had to study and map even these smaller floodplains on their developments and put them in easements.  These easements have been captured on our tax maps since 1985, development by development, as the record plats were recorded. FEMA doesn't recognize as Special Flood Hazard Areas, many stream valleys that we would call floodplain. \n \n The layer currently on the data loader for floodplains is missing many segments of stream that are defined as floodplain per the zoning ordinance. Yet because of our zoning ordinance definition, this layer extends up in many areas far beyond where FEMA has mapped its 100-yr floodplains. "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "FloodPlain",
+    "Over Bank Areas"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "locn_geometry": "ENVELOPE(-77.54, -77.0348, 39.0595, 38.6154)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_flood",
+  "id": "gmu-fairfax-county-2007-flood",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_flood"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

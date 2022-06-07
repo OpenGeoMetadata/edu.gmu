@@ -1,0 +1,39 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Human Services Facilities, Washington, DC 2007",
+  "dct_description_sm": [
+    "The dataset represents the locations and attributes of Human Services Facilities in Washington, DC 2007"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Department Of Human Services",
+    "Health",
+    "Charity",
+    "Organizations",
+    "Disadvantaged"
+  ],
+  "gbl_indexYear_im": [
+    7
+  ],
+  "locn_geometry": "ENVELOPE(-77.1112, -76.9122, 38.9882, 38.8204)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_dcgis_humanservicept",
+  "id": "gmu-washington-dc-2005-dcgis-humanservicept",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_dcgis_humanservicept"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

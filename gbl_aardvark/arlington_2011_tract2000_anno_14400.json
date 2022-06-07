@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Census Tract, Arlington County, VA 2006",
+  "dct_description_sm": [
+    "The dataset represents the Annotation for Census Tract in Arlington County,VA 200"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Tract",
+    "Demography"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "locn_geometry": "ENVELOPE(-77.1603, -77.0393, 38.9169, 38.8321)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_tract2000_anno_14400",
+  "id": "gmu-arlington-2011-tract2000-anno-14400",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_tract2000_anno_14400"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

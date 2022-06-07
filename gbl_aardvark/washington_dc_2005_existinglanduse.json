@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "DC Office of Tax and Revenue (OTR)",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Existing Land Use, Washington, DC 2005",
+  "dct_description_sm": [
+    "The dataset represents the delineations of Existing Land use in Washington, DC 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "locn_geometry": "ENVELOPE(-77.1199, -76.909, 38.996, 38.7916)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_existinglanduse",
+  "id": "gmu-washington-dc-2005-existinglanduse",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_existinglanduse"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

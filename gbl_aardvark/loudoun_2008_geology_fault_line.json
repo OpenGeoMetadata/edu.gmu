@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "U.S. Geological Survey (USGS)",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Geologic Fault, Loudoun County, VA 1999",
+  "dct_description_sm": [
+    "\"Fault\" is one of four layers which collectively describe the subsurface geologic formation, structural geology and surficial deposits.  \"Fault\" is the comprehensive mapping of geologic faults.\n\nThe geology of Loudoun County, Virginia, was mapped in 1988 through 1991 under a cooperative agreement between the U.S. Geological Survey (USGS) and the Loudoun County Department of Environmental Resources. This geologic map was compiled in 1993 from a series of detailed published and unpublished field investigations at scales of 1:12,000 and 1:24,000. Some of these same data were compiled as a digital geologic map at 1:100,000 scale (Burton and others, 1992a) and were the basis for a cost-benefit analysis of the societal value of geologic maps (Bernknopf and others, 1993).\n\nThe data was later revised and published by USGS in the Open File Report, MAP OF-99-150, GEOLOGIC MAP OF LOUDOUN COUNTY, VIRGINIA By Scott Southworth, W.C. Burton, J.S. Schindler, and A.J. Froelich1 with contributions on the geology of the Piedmont province by A.A. Drake, Jr., and R.E. Weems and an aeromagnetic survey by D.L. Daniels, W.F. Hanna, and R.E. Bracken."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "Bedrock",
+    "Structure",
+    "Fault"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "locn_geometry": "ENVELOPE(-77.8242, -77.3355, 39.3198, 38.8451)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_geology_fault_line",
+  "id": "gmu-loudoun-2008-geology-fault-line",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_geology_fault_line"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1997-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

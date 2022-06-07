@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Stormwater Drop Inlets,  Loudoun County, VA 2008",
+  "dct_description_sm": [
+    "This feature class identifies all of the town's stormwater management drop inlets in the town of Lovettsville.  The feature class identifies the location for each drop inlet; street, curb, or side of road."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "utilitiesCommunication",
+    "Storm water",
+    "Drop inlets"
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_lville_drop_inlets_point",
+  "id": "gmu-loudoun-2008-lville-drop-inlets-point",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_lville_drop_inlets_point"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2008-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

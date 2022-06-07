@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Historic and Cultural Conservation Districts, Loudoun County, VA 2006",
+  "dct_description_sm": [
+    "This data set identifies the six county-wide Historic and Cultural Conservation District areas that are subject to Loudoun County Zoning Ordinance, Article VI, Section 6-1800, Designation of Historic Districts.  This data set also identifies the county's only Historic Roadway District, Beaverdam Creek Historic Roadway District.  The six Historic Districts were formed at the request of property owners who strived to preserve historic landscapes, buildings, and view sheds.  The Planning Department administers the County's Historic District Program."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "society",
+    "planningCadastre",
+    "Historic",
+    "Cultural"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "locn_geometry": "ENVELOPE(-77.9, -77.5676, 39.2605, 38.9726)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_hist_dist",
+  "id": "gmu-loudoun-2008-hist-dist",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_hist_dist"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Soccer Fields, Arlington County, VA",
+  "dct_description_sm": [
+    "This point layer represents Arlington County Soccer fields created by and for the Department of Parks, Recreation and Community Resources.  Also maintained by the County and the Northern Virginia Regional Park Authority."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "biota",
+    "recreation",
+    "soccer fields",
+    "sports",
+    "",
+    "Sports"
+  ],
+  "gbl_indexYear_im": [
+    192
+  ],
+  "locn_geometry": "ENVELOPE(-77.161365345, -77.053166859, 38.92445065, 38.834552322)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_soccer_fields",
+  "id": "gmu-arlington-2004-soccer-fields",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_soccer_fields"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0192-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

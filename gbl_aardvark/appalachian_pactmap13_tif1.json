@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "PACT Map 13 (1940), Southern VA",
+  "dct_description_sm": [
+    "This map represents a georeferenced image of PACT Map 13 (1940).jpg prepared by David Dick, Roanoke Appalachian Trail Club.  It contains State Highways, US Route, Blue Ridge Parkway,  Appalachian Trail, Rail Roads, Old Roads, County Line, State Lines, and more in this Southern VA area."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Raster"
+  ],
+  "dct_subject_sm": [
+    "biota",
+    "Trail"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-81.1097, -79.8088, 37.5266, 36.4775)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "gbl_wxsIdentifier_s": ":appalachian_pactmap13_tif1",
+  "id": "gmu-appalachian-pactmap13-tif1",
+  "dct_identifier_sm": [
+    "GMU.appalachian_pactmap13_tif1"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

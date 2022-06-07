@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "2000 Census Tracts, City of Alexandria, VA ",
+  "dct_description_sm": [
+    "This polygon dataset contains the boundaries of the census tracts in the City of  Alexandria, VA  for the 2000 Census."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Block",
+    "Demographics"
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "locn_geometry": "ENVELOPE(-77.1448, -77.0367, 38.8459, 38.7858)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":alexandria_2007_tract00",
+  "id": "gmu-alexandria-2007-tract00",
+  "dct_identifier_sm": [
+    "GMU.alexandria_2007_tract00"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia,VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

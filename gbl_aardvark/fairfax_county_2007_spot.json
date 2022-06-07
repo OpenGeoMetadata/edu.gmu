@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Spot Elevations, Fairfax County, VA 1999",
+  "dct_description_sm": [
+    "This layer contains spot elevations for land and water features. The land spots contain the elevation for that particular point on the ground. The water spots contain the elevation of the water body. Spot elevations were captured for tops of hills ( including dams ), depressions, saddles, intersection of roads, center lines of roads over culverts, center and end of bridges, intersection of roads and railroads, and in areas of dense vegetation where the ground is visible."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Elevation",
+    "Spots",
+    "Mass Points"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "locn_geometry": "ENVELOPE(-77.5425, -77.0351, 39.0674, 38.616)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_spot",
+  "id": "gmu-fairfax-county-2007-spot",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_spot"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1997-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

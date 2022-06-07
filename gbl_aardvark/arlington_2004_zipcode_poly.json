@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Zipcode, Arlington County, VA",
+  "dct_description_sm": [
+    "\n    This feature class consists of polygons representing ZIP Code areas in Arlington\n    County. The United States Postal Service determines the boundaries, effectively\n    showing delivery areas for each of the post offices serving the County. The\n    boundary lines were determined using a national ZIP Code directory and internet\n    resources provided by the USPS. It has not been authorized by the USPS, and\n    should not construed as a legal document. This data is digitized and maintained\n    by Arlington County for purposes of geographic analysis and mapping. Inquiries\n    requiring \u201cofficial\u201d responses should be directed to the United States Postal\n    Service.\n   "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "zipcode",
+    "postal district"
+  ],
+  "gbl_indexYear_im": [
+    190
+  ],
+  "locn_geometry": "ENVELOPE(-77.173512101, -77.030476953, 38.934951849, 38.826791527)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_zipcode_poly",
+  "id": "gmu-arlington-2004-zipcode-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_zipcode_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0190-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

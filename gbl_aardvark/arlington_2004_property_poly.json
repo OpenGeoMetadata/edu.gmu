@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Property, Arlington County, VA",
+  "dct_description_sm": [
+    "The collections of polygons represents real property boundaries in Arlington County, VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "Common-use word or phrase used to describe the subject of the data set.  REQUIRED.",
+    "properties"
+  ],
+  "gbl_indexYear_im": [
+    190
+  ],
+  "locn_geometry": "ENVELOPE(-77.173511693, -77.030477764, 38.934896854, 38.826792704)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_property_poly",
+  "id": "gmu-arlington-2004-property-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_property_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0190-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Section Annotation, Arlington County, VA 2008",
+  "dct_description_sm": [
+    "This dataset represents the map section annotation in Arlington County, VA 2008"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "REQUIRED: Common-use word or phrase used to describe the subject of the data set."
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "locn_geometry": "ENVELOPE(-77.166, -77.0362, 38.9362, 38.8276)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_section_anno_14400",
+  "id": "gmu-arlington-2011-section-anno-14400",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_section_anno_14400"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2008-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

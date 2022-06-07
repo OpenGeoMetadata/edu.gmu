@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Culverts, Prince William County, VA",
+  "dct_description_sm": [
+    "This data layer contains points representing culverts located in water networks and marsh areas in Prince William County,VA. Culverts are structures built under travel ways or portions of land allowing water to flow from one side to the other"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Hydrology",
+    "Hydrography",
+    "Marshes\t",
+    "Streams"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-77.7126, -77.2276, 38.9407, 38.5098)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":prince_william_2009_culverts",
+  "id": "gmu-prince-william-2009-culverts",
+  "dct_identifier_sm": [
+    "GMU.prince_william_2009_culverts"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

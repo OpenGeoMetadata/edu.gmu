@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Historic Zoning, Loudoun County, VA 2003",
+  "dct_description_sm": [
+    "The Historic Zoning Feature Class constitutes the official zoning map for Loudoun County prior to adoption of the revisions to the 1993 Zoning Ordinance on January 6, 2003.  The zoning boundaries generally follow parcel lines, although there are several exceptions.  Zoning data is incomplete county wide due to unavailability of data within Town and Dulles International Airport limits."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Historic",
+    "Zoning"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_hzoning",
+  "id": "gmu-loudoun-2008-hzoning",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_hzoning"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2003-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

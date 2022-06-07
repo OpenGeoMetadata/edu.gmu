@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "ADC",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Post Office locations, Washington, DC 2005",
+  "dct_description_sm": [
+    "This dataset represents the location of Post Office in Washington, DC 2006"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Mail",
+    "US Postal Service",
+    "Government facilities",
+    "USPS"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "locn_geometry": "ENVELOPE(-77.1029, -76.9491, 38.975, 38.8223)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_dcgis_postofficept",
+  "id": "gmu-washington-dc-2005-dcgis-postofficept",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_dcgis_postofficept"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,49 @@
+{
+  "dc_publisher_s": "DC GIS",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Address Points, Washington D.C.  2020",
+  "dct_description_sm": [
+    "Address Points. The dataset contains locations and attributes of Address points, created as part of the Master Address Repository (MAR) for the D.C. Office of the Chief Technology Officer (OCTO) and DC Department of Consumer and Regulatory Affairs . It contains the addresses in the District of Columbia which are typically placed on the buildings. More information on the MAR can be found at http://dcgis.dc.gov."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "location",
+    "Addresspts",
+    "Building Number",
+    "Street Address",
+    "Address",
+    "Street Number",
+    "Quadrant",
+    "Address Location",
+    "Address Point",
+    "location",
+    "Street Type"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "locn_geometry": "ENVELOPE(-77.1143, -76.9096, 38.9955, 38.8122)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_address_points",
+  "id": "gmu-washington-dc-2005-address-points",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_address_points"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2020-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "DCGIS",
+    "DC",
+    "DC GIS",
+    "Washington",
+    "D.C.",
+    "District of Columbia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

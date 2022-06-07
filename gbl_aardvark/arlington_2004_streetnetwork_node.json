@@ -1,0 +1,33 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Street Network Node, Arlington County, VA",
+  "dct_description_sm": [
+    "This represents street network node (geometry) in Arlington County, VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "REQUIRED: Common-use word or phrase used to describe the subject of the data set.",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "locn_geometry": "ENVELOPE(-77.1731, -77.0365, 38.9339, 38.8267)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_streetnetwork_node",
+  "id": "gmu-arlington-2004-streetnetwork-node",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_streetnetwork_node"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

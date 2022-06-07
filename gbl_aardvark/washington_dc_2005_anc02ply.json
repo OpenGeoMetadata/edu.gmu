@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Advisory Neighborhood Commissions, Washington, DC 2002",
+  "dct_description_sm": [
+    "This dataset represents the Advisory Neighborhood Commissions or ANC's in Washington, DC 2002 which are collections of Single Member Districts or SMD's.  There are multiple ANC's for each of the eight Wards.  The initial number of ANC codes correspond to the ward.  Three ANC's cross ward boundaries; 3C, 3G and 6D, the remaining do not.\n\nANC's consider a wide range of policies and programs affecting their neighborhoods. These include traffic, parking, recreation, street improvements, liquor licenses, zoning, economic development, police protection, sanitation and trash collection, and the District's annual budget. No public policy area is excluded from the purview of the Advisory Neighborhood Commissions.\n\nThe intent of the ANC legislation is to ensure input from an advisory board made up of the residents of the neighborhoods directly affected by government action. The ANCs are the body of government with the closest official ties to the people in a neighborhood.  ANCs present their positions and recommendations on issues to various District government agencies, the Executive Branch, and the Council. They also present testimony to independent agencies, boards and commissions, usually under rules of procedure specific to those entities. By law, the ANCs may also present their positions to Federal agencies.\n\nAll DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Advisory Neighborhood Commissions",
+    "Ward",
+    "Single Member Districts"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "locn_geometry": "ENVELOPE(-77.1199, -76.909, 38.996, 38.7916)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_anc02ply",
+  "id": "gmu-washington-dc-2005-anc02ply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_anc02ply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

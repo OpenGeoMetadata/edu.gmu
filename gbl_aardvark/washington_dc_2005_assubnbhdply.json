@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Assessment Sub Neighborhoods,  Washington, DC 2003",
+  "dct_description_sm": [
+    "This dataset represent the boundaries of assessment sub neighborhoods in Washington, DC 2003 as defined by the DC Office of Tax and Revenue (OTR) Real Property Tax Administration (RPTA).  For analysis purposes, RPTA delineates assessment neighborhoods to group properties that are affected by similar economic, political, governmental, and environmental factors.\n\nAssessment sub neighborhoods are defined by the environment of a subject property that has a direct and immediate effect on its value.  The assessment sub neighborhood is a geographic area (in which there are typically fewer than several thousand properties) defined for some useful purpose, such as to ensure for later multiple regression modeling that the properties are homogeneous and share important locational characteristics.\n\nAssessment neighborhoods boundaries typically follow street center lines, hydrological boundaries, and boundaries of major properties such as parks and monuments.  The current feature class was created by selecting coincident features from the DC GIS snap base.  These included road center lines, stream center lines, water boundaries, rail lines, and DC political boundaries.  After a new feature class was created, any additional lines required for polygon closure were snapped to existing features using a tolerance of .001 meters."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Taxation",
+    "Property",
+    "Land"
+  ],
+  "gbl_indexYear_im": [
+    7
+  ],
+  "locn_geometry": "ENVELOPE(-77.1144, -76.909, 38.9848, 38.8191)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_assubnbhdply",
+  "id": "gmu-washington-dc-2005-assubnbhdply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_assubnbhdply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

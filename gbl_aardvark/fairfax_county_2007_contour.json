@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Contours of Terrain, Fairfax County, VA 1999",
+  "dct_description_sm": [
+    "This layer contains contours that were derived from the digital terrain model made up of irregularly spaced mass points and break lines. The contours are 5 foot intervals and are broken down into 9 different types. These include index, intermediate, index depression, intermediate depression, indefinite area index, indefinite area intermediate, indefinite area depression index, and indefinite area depression intermediate and hidden. The indefinite area contours are contours that cross into an area where the ground was difficult to see in the model due to dense trees or construction. The hidden portion of contours are under buildings and where the contour annotation is placed or where contours become very close due to very steep slope."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "Contours",
+    "Elevation"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "locn_geometry": "ENVELOPE(-77.5438, -77.0348, 39.0675, 38.616)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_contour",
+  "id": "gmu-fairfax-county-2007-contour",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_contour"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1997-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

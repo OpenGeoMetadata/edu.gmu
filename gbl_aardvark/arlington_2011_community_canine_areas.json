@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Community Canine Areas, Arlington County, VA 2006",
+  "dct_description_sm": [
+    "This dataset represents the point location of Dog Exercise Areas or \"dog parks\" in Arlington County, VA 2006"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Dog",
+    "Pet",
+    "Parks"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "locn_geometry": "ENVELOPE(-77.1566, -77.076, 38.9233, 38.838)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_community_canine_areas",
+  "id": "gmu-arlington-2011-community-canine-areas",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_community_canine_areas"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

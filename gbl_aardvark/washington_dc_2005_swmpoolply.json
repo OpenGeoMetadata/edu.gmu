@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Office of the Chief Technology Officer",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Swimming pools, Washington, DC 2002",
+  "dct_description_sm": [
+    "This dataset represents the location of Swimming pools in Washington, DC 2002"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Swimming",
+    "Pools"
+  ],
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "locn_geometry": "ENVELOPE(-77.1114, -76.9214, 38.9946, 38.8149)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_swmpoolply",
+  "id": "gmu-washington-dc-2005-swmpoolply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_swmpoolply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1999-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

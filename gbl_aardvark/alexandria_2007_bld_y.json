@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Buildings,  City of Alexandria, VA, 2005",
+  "dct_description_sm": [
+    "A polygon feature representing building footprints over 100 square feet in size for the City of Alexandria, Virginia. Buildings with less than 100 square feet (such as small sheds) are not captured"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "location",
+    "Building",
+    "facilities"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.145072502, -77.036970228, 38.845111819, 38.789977075)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":alexandria_2007_bld_y",
+  "id": "gmu-alexandria-2007-bld-y",
+  "dct_identifier_sm": [
+    "GMU.alexandria_2007_bld_y"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "City of Alexandria",
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

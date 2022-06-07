@@ -1,0 +1,34 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Neighborhood Service Areas,  1990, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon layer represents 1990 Census Neighborhood Service Areas (NSA) boundaries. Facilitates linking the block, block group, tract and NSA regions to external data tables storing demographic data useful for thematic mapping and analysis. Census 1990 NSA data in CENSUS1990_NSA_DAT table. The definitions for the data fields can be found in the CENSUS1990_NSA_FIELDS table."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Census"
+  ],
+  "gbl_indexYear_im": [
+    168
+  ],
+  "locn_geometry": "ENVELOPE(-77.1735, -77.0305, 38.9349, 38.8268)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_nsa1990",
+  "id": "gmu-arlington-2004-nsa1990",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_nsa1990"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0168-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

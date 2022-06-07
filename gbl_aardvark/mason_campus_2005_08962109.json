@@ -1,0 +1,34 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Orthophoto image (East part) of the George Mason Fairfax Campus, Fairfax, VA 2005",
+  "dct_description_sm": [
+    "This georeferenced aerial photo image represents East part of the Fairfax campus, George Mason University in 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Raster"
+  ],
+  "dct_subject_sm": [
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.3092, -77.2929, 38.8382, 38.8209)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "gbl_wxsIdentifier_s": ":mason_campus_2005_08962109",
+  "id": "gmu-mason-campus-2005-08962109",
+  "dct_identifier_sm": [
+    "GMU.mason_campus_2005_08962109"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "George Mason University"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

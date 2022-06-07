@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Buildings, Fairfax County, VA 1999",
+  "dct_description_sm": [
+    "This layer contains the buildings that have been captured through various processes.  The original data in this layer was captured during the 1997-2000 data conversion effort for Fairfax County.  The building footprints were captured using stereo models.  Since then the GIS office has captured building rooftops from ortho photography by performing heads up digitizing.  Prior to receiving the ortho photography, site plans are used to capture the planned building footprints.  These different sources of the buildings are indicated within the building attributes as well as the type of building."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Footprints",
+    "Rooftop"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "locn_geometry": "ENVELOPE(-77.5431, -77.0354, 39.061, 38.6189)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_bldg",
+  "id": "gmu-fairfax-county-2007-bldg",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_bldg"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1997-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

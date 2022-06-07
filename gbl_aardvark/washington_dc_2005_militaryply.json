@@ -1,0 +1,41 @@
+{
+  "dc_publisher_s": "ADC",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Military Facilities., Washington, DC 2005",
+  "dct_description_sm": [
+    "The dataset represents the location of Military Facilities in Washington, DC 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Military",
+    "Federal",
+    "Defense",
+    "Army",
+    "Navy",
+    "Marines",
+    "Air Force"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "locn_geometry": "ENVELOPE(-77.0855, -76.9912, 38.9779, 38.8199)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_militaryply",
+  "id": "gmu-washington-dc-2005-militaryply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_militaryply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2005-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

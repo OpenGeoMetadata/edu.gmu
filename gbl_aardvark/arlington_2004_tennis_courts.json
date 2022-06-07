@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Tennis Courts, Arlington County, VA",
+  "dct_description_sm": [
+    "This point layer represents Tennis Courts in Arlington County created by and for the Department of Parks, Recreations, and Community Resources."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "location",
+    "tennis courts"
+  ],
+  "gbl_indexYear_im": [
+    192
+  ],
+  "locn_geometry": "ENVELOPE(-77.15883845, -77.05759661, 38.921989068, 38.843271203)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_tennis_courts",
+  "id": "gmu-arlington-2004-tennis-courts",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_tennis_courts"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0192-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

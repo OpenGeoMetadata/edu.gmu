@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Airport Impact Overlay District,  Loudoun County, Virginia 1993",
+  "dct_description_sm": [
+    "The Airport Impact (AI) Overlay District is a zoning overlay district administered by the Loudoun County Department of Building and Development.  The Department is responsible for all development approvals, review procedures, modifications and density calculations in the AI as governed by Article IV, Division C: \"Environmental Impact Districts\", Section 4-1400 of the Revised 1993 Zoning Ordinance.\n\nThe Airport Impact (AI) Overlay District boundaries shall be based on the 60dB and 65dB Loudness Day Night (LDN) noise contours and a one-mile buffer that extends beyond the 60dB LDN contour for Washington-Dulles International Airport and the Leesburg Municipal Airport (Godfrey Field).  The Board of Supervisors for Loudoun County, Virginia shall use as a basis for delineating the LDN noise contours the following sources:\n(1)\tWashington Dulles International Airport:  The FAA PART 150 Noise Compatibility Programs, Washington Dulles International Airport, August, 1992, and\n(2)\tLeesburg Municipal Airport:  Environmental Assessment Report.  October, 1985."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Airport",
+    "Decibel level"
+  ],
+  "gbl_indexYear_im": [
+    1993
+  ],
+  "locn_geometry": "ENVELOPE(-77.6054, -77.4072, 39.1103, 38.8205)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_ldn",
+  "id": "gmu-loudoun-2008-ldn",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_ldn"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1993-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

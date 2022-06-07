@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "ADC",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Miscellaneous Human Services Facilities, Washington, DC 2003",
+  "dct_description_sm": [
+    "This dataset represents the location of Miscellaneous Human Services Facilities in Washington, DC 2005\n"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Department of Human Services",
+    "Health",
+    "Charity",
+    "Organizations"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "locn_geometry": "ENVELOPE(-77.1089, -76.9159, 38.9882, 38.8136)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_mischumservpt",
+  "id": "gmu-washington-dc-2005-mischumservpt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_mischumservpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2003-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

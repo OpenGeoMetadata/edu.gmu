@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Township Boundary, China 2019",
+  "dct_description_sm": [
+    "This polygon layer represents township boundary of China including the China Country Boundary.  All names of townships are in Chinese.  "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "biota",
+    "China",
+    "townships"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "locn_geometry": "ENVELOPE(73.499, 135.0874, 53.5617, 15.6952)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":xiangzhen.shp attribute table",
+  "id": "gmu-xiangzhen-shp-attribute-table",
+  "dct_identifier_sm": [
+    "GMU.xiangzhen.shp+Attribute+Table"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2019-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Towns"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

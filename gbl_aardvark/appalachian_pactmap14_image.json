@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "PACTMap 14(1941).jpg  Southern VA.",
+  "dct_description_sm": [
+    "This map represents a scanned image of  \"Map no. 14\" published by Potomac Appalachian Trail Club drafted by E.P. Schreier and edited by Myron Avery in 1941.  It contains State and U.S highways, primary and secondary roads, Appalachian and other trails, railroads, Mountain peak and spring water locations in Souther Virginia."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Raster"
+  ],
+  "dct_subject_sm": [
+    "biota",
+    "Transportation"
+  ],
+  "gbl_indexYear_im": [
+    1
+  ],
+  "locn_geometry": "ENVELOPE(-81.9345, -80.878, 36.9154, 36.4663)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "gbl_wxsIdentifier_s": ":appalachian_pactmap14_image",
+  "id": "gmu-appalachian-pactmap14-image",
+  "dct_identifier_sm": [
+    "GMU.appalachian_pactmap14_image"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

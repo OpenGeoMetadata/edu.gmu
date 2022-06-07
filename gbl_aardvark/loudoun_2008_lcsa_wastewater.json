@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "Loudoun,VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "LCSA Wastewater Lines,  Loudoun County, VA 2007",
+  "dct_description_sm": [
+    "This feature class contains wastewater lines   corresponding information that falls within the boundary of Loudoun County."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "utilitiesCommunication",
+    "environment",
+    "Wastewater",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "locn_geometry": "ENVELOPE(-77.796, -77.3272, 39.2494, 38.86)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_lcsa_wastewater",
+  "id": "gmu-loudoun-2008-lcsa-wastewater",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_lcsa_wastewater"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

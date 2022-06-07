@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Geographic Boundaries, Prince William County, VA 1988",
+  "dct_description_sm": [
+    "The dataset contains lines that designate the legal geographic boundaries between county, city and township jurisdictions within the outer boundaries of Prince William County."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Jurisdiction",
+    "Area"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "locn_geometry": "ENVELOPE(-77.7196, -77.2114, 38.9433, 38.4998)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":prince_william_2009_cntybnd",
+  "id": "gmu-prince-william-2009-cntybnd",
+  "dct_identifier_sm": [
+    "GMU.prince_william_2009_cntybnd"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

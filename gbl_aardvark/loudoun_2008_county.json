@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "County Boundary, Loudoun County, VA",
+  "dct_description_sm": [
+    "Loudoun County was founded and surveyed in 1757. Loudoun's boundary with Maryland is the mean low water mark of the Potomac River on the Virginia side; it has not been surveyed. Loudoun's boundary with Prince William County is the Bull Run Creek.  The border has not been modified for recent surveys.  Individual plats along the Potomac and Bull Run Rivers have not resulted in a change in the border along those rivers- since measurements of the waters edge vary seasonally and the County Boundary needs to be seamless and constant.\n   Many decades ago tax commissioners from surrounding jurisdictions assigned parcels to one jurisdiction or another rather than splitting parcels.  Currently there is a mix of parcels split by a County Boundary, parcels taxed entirely in Loudoun, and portions of parcels within the County but taxed by another jurisdiction.  The Assessor's office dictates how these parcels are taxed, as do other juristriction\n\nIn 1957, the boundary with Fairfax County was re-established and finalized. The boundary with Fauquier County was surveyed and monumented in 1966. The boundary with Clarke County was surveyed in 1989, and the boundary survey with Jefferson County West Virginia was completed in 1998.  The West Virginia, Fairfax, Fauquier, and Clarke boundary arcs were created by generating coverages from the monument coordinates using the generate command."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "Boundary",
+    "Survey"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_county",
+  "id": "gmu-loudoun-2008-county",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_county"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2002-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

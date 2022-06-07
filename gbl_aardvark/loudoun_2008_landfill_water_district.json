@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Landfill Water Service District (LWSD),  Loudoun County, VA 2007",
+  "dct_description_sm": [
+    "The LWSD layer identifies the water service area that is supplied with water from the Loudoun County Sanitation Authority (LCSA).  It identifies both the orignial   expanded Service District areas, which are identified in the layer's attributes. The original area was drafted first and extended a mile from the landfill perimeter. The original LWSD was amended by the Loudoun County General Plan, which resulted in the expansion area.  The expansion area was derived from the parcels that intersected the LCSA water lines from the east."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Landfill",
+    "Water Service"
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "locn_geometry": "ENVELOPE(-77.61, -77.5327, 39.0672, 39.0178)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_landfill_water_district",
+  "id": "gmu-loudoun-2008-landfill-water-district",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_landfill_water_district"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

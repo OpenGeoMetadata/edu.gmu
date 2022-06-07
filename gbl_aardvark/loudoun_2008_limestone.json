@@ -1,0 +1,41 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Limestone Conglomerate Overlay District, Loudoun County, Virginia 2003",
+  "dct_description_sm": [
+    "NOTE: The Circuit Court of Loudoun County issued an opinion dated March 30, 2004 ruling that the LCOD is void. The March 30, 2004 decision may be the subject of an appeal.\n\nThe Limestone Conglomerate Overlay District (LOD) is a zoning overlay district administered by the Loudoun County Department of Building and Development.  The Department is responsible for all development approvals, review procedures, modifications and density calculations in the LOD as governed by Article VI, \"Development Process and Administration\", of the Revised 1993 Zoning Ordinance, and procedures in Chapter 8 of the Facilities Standards manual.\n\nThe LOD is comprised of all or portions of the following geologic formations: Cf-Frederick Limestone, Ct-Tomstown Dolomite, JTRc-Catharpin Creek Formation, JTRcg-Catharpin Creek Formation Goose Creek Member, TRbl-Balls Bluff Siltstone Leesburg Member, and TRbs-Balls Bluff Siltstone Fluvial and Deltaic Sandstone Member.\n\nThe area represented by the Limestone Conglomerate Overlay District (LOD) is generally east from the Catoctin Mountain Range to the Potomac River (excludes Lost Corner), and from Leesburg north to Point of Rocks, MD"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Limestone",
+    "Conglomerate",
+    "Environment",
+    "Limestone",
+    "environment",
+    "health",
+    "boundaries"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "locn_geometry": "ENVELOPE(-77.6052, -77.492, 39.267, 39.076)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_limestone",
+  "id": "gmu-loudoun-2008-limestone",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_limestone"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2003-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

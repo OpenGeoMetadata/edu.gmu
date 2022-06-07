@@ -1,0 +1,39 @@
+{
+  "dc_publisher_s": "ADC",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Embassy Locations, Washington, DC 2006",
+  "dct_description_sm": [
+    "This dataset represents the locations of Embassy in Washington, DC 2006"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Consulate",
+    "Government facilities",
+    "Diplomacy",
+    "International relations",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    6
+  ],
+  "locn_geometry": "ENVELOPE(-77.0873, -77.0183, 38.9611, 38.893)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_embassypt",
+  "id": "gmu-washington-dc-2005-embassypt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_embassypt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

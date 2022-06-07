@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "National Geospatial-Intelligence Agency",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Air Space locations, Washington, DC 2005",
+  "dct_description_sm": [
+    "This dataset represents the locations and attributes of Air Space in the Washington, DC 2006"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "No fly zones",
+    "National security",
+    "Homeland security",
+    "aviation"
+  ],
+  "gbl_indexYear_im": [
+    6
+  ],
+  "locn_geometry": "ENVELOPE(-77.9011, -76.199, 39.5046, 38.3557)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_airspaceply",
+  "id": "gmu-washington-dc-2005-airspaceply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_airspaceply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

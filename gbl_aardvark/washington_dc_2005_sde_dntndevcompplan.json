@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Comprehensive Downtown Business Area, Washington, DC 2005",
+  "dct_description_sm": [
+    "The DC Comprehensive Plan document (1984) identifies the Downtown Development areas as a key part of the District's Central Employment Area.  It is further broken down into ten (10) sub-areas.\n\nDowntown, the original commercial area between the Capitol and the White House, is bound generally by North Capitol Street on the east, Pennsylvania Avenue on the south, 15th Street on the west, and Massachusetts Avenue on the north. This area is entirely within the northwest section of the District.\n\nTen (10) component sub-areas identified include: (Retail Core, Gallery Place, Convention Center, Chinatown, Pennsylvania Avenue West, Pennsylvania Quarter, Franklin Square, Mount Vernon Square, Judiciary Square, Downtown East).  Boundary areas taken from general descriptions within Comprehensive Plan document.  \n\nThis dataset reflects the boundaries as defined in the 1984 document."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Downtown Development",
+    "Downtown"
+  ],
+  "gbl_indexYear_im": [
+    309
+  ],
+  "locn_geometry": "ENVELOPE(-77.0346, -77.0091, 38.9066, 38.892)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_sde_dntndevcompplan",
+  "id": "gmu-washington-dc-2005-sde-dntndevcompplan",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_sde_dntndevcompplan"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0309-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

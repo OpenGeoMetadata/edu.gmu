@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Precincts 2000, Arlington County, VA",
+  "dct_description_sm": [
+    "This feature represents Census 2000 Voting  Precincts boundaries.in Arlington County, VA"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "election"
+  ],
+  "gbl_indexYear_im": [
+    170
+  ],
+  "locn_geometry": "ENVELOPE(-77.173504724, -77.030477784, 38.934894057, 38.826789958)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_precincts2000",
+  "id": "gmu-arlington-2004-precincts2000",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_precincts2000"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0170-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

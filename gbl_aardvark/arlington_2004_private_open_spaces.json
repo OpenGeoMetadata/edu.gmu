@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Private Open Spaces, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon layer represents Park's Private Open Space created by or for the Department of Parks Recreation and Community Resources."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "location",
+    "park open space"
+  ],
+  "gbl_indexYear_im": [
+    192
+  ],
+  "locn_geometry": "ENVELOPE(-77.11353688, -77.069345574, 38.89663168, 38.878505227)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_private_open_spaces",
+  "id": "gmu-arlington-2004-private-open-spaces",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_private_open_spaces"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0192-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

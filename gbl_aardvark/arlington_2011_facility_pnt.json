@@ -1,0 +1,39 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Facility Points, Arlington County, VA 2009",
+  "dct_description_sm": [
+    "This dataset denotes the points representing facilities of popular interest in Arlington County, VA 2009"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Hospitals",
+    "Fire Stations",
+    "Metro Stations",
+    "Pools",
+    "Post Offices"
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "locn_geometry": "ENVELOPE(-77.1654, -77.043, 38.9238, 38.834)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_facility_pnt",
+  "id": "gmu-arlington-2011-facility-pnt",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_facility_pnt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2009-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

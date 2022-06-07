@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "House of Delegates District, Prince William County, VA",
+  "dct_description_sm": [
+    "This data layer contains polygon features representing the Virginia House of Delegate Districts for Prince William County,VA "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Election",
+    "Voting"
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "locn_geometry": "ENVELOPE(-77.7196, -77.2114, 38.9433, 38.4998)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":prince_william_2009_housedist",
+  "id": "gmu-prince-william-2009-housedist",
+  "dct_identifier_sm": [
+    "GMU.prince_william_2009_housedist"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2009-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

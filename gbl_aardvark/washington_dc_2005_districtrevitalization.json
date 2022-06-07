@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "District Revitalization Areas, Washington, DC 2003",
+  "dct_description_sm": [
+    "This dataset represents the District Revitalization Areas in Washington, DC 2003"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "District Revitalization",
+    "Planning Initiatives"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "locn_geometry": "ENVELOPE(-77.0889, -76.936, 38.9773, 38.8235)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_districtrevitalization",
+  "id": "gmu-washington-dc-2005-districtrevitalization",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_districtrevitalization"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2003-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Quad Polygon, Arlington County, VA",
+  "dct_description_sm": [
+    "\nPolygons identifying section quadrants (NW, NE, SW, SE) as part of the Index Map geotabase.    Map sections cover an area 6000 feet wide by 4000 feet tall, and are identified by numbers indicating rows and columns, from 2 through 104, where the first digit (0 through 10) indicates the row, and the last digit indicates the column (0 through 6). This means that section 53 is in the row below section 43, but in the column adjacent to section 52. Each section is further divided into 4 quadrants, NW, NE, SW and SE. Sections are again broken into 16 map sheets, each being 1500 feet by 1000 feet in size, and numbered 1 through 16, numbered across 4 rows within each section. These sheets are generally identified by a combination of section number and sheet number, such as 44-11.\n   "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "structure",
+    "Quad"
+  ],
+  "gbl_indexYear_im": [
+    181
+  ],
+  "locn_geometry": "ENVELOPE(-77.174607779, -77.030216633, 38.936174529, 38.824665002)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_quad_poly",
+  "id": "gmu-arlington-2004-quad-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_quad_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0181-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

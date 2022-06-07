@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Agricultural Districts, Loudoun County, VA 2001",
+  "dct_description_sm": [
+    "This data set identifies properties that participate in and are part of Agricultural overlay districts according to State enabling legislation per the Virginia State Code, Chapter 43, Section 15.2, Agricultural Districts.  Economic Development administers the County's Agricultural District program.  A parcel is not the smallest unit within an Agricultural District.  A portion  of any parcel can be in or out of a district, through appropriate reviews, without an official subdivision.   A District designation of Xdistrict (an \"X\" preceding the District name) requires parcel enrollment confirmation by Department of Economic Development (703-777-0426).\n"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Agricultural",
+    "District"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "locn_geometry": "ENVELOPE(-77.934, -77.4771, 39.3219, 38.8838)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_agriculture_dist",
+  "id": "gmu-loudoun-2008-agriculture-dist",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_agriculture_dist"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2000-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "L'Enfant Plan Boundaries, Washington, DC 2003",
+  "dct_description_sm": [
+    "This dataset represents the external boundaries of the original L'Enfant Plan in Washington, DC 2003\n"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "L'Enfant Plan",
+    "Boundaries"
+  ],
+  "gbl_indexYear_im": [
+    3
+  ],
+  "locn_geometry": "ENVELOPE(-77.0592, -76.9651, 38.9207, 38.8563)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_sde_lenfantply",
+  "id": "gmu-washington-dc-2005-sde-lenfantply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_sde_lenfantply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0003-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

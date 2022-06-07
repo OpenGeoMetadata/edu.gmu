@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Watershed, Washington, DC 2007",
+  "dct_description_sm": [
+    "This dataset is a complete digital hydrologic unit boundary layer to the watershed (10-digit) 6th level at 1:24,000 scale in Washington, DC 2007\n\n"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Environment",
+    "hydrology",
+    "Watershed"
+  ],
+  "gbl_indexYear_im": [
+    7
+  ],
+  "locn_geometry": "ENVELOPE(-77.3855, -76.803, 39.2038, 38.6546)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_watershedply",
+  "id": "gmu-washington-dc-2005-watershedply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_watershedply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Resource Protection Areas, Prince William County, VA",
+  "dct_description_sm": [
+    "This polygon represents the approximate locations of Resource Protection Areas located within Prince William County, VA. RPA's include the land area within 100 feet of a perennial stream bank or edge of wetlands adjacent to the perennial stream. RPA areas are protected under state law and local ordinances. In general, no development, land disturbance, or vegetation removal is allowed in an RPA. RPA's were designated along all perennial streams in the County."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Preservation Area",
+    "Wetlands"
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "locn_geometry": "ENVELOPE(-77.7154, -77.2113, 38.9436, 38.5014)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":prince_william_2009_rpa",
+  "id": "gmu-prince-william-2009-rpa",
+  "dct_identifier_sm": [
+    "GMU.prince_william_2009_rpa"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2009-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia ",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

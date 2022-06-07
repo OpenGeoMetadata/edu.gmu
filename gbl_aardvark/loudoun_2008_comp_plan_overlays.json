@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Comprehensive Plan Overlays, Loudoun County, VA",
+  "dct_description_sm": [
+    "This feature class contains comprehensive plan overlays for all of Loudoun County.  The overlays identified are general in nature in meaning and serve to augment the planned land use of those areas by providing more specific uses within those areas."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Comprehensive plan overlays",
+    "planned landuse",
+    "Planning",
+    "Land"
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "locn_geometry": "ENVELOPE(-77.5448, -77.3918, 39.0419, 38.9297)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_comp_plan_overlays",
+  "id": "gmu-loudoun-2008-comp-plan-overlays",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_comp_plan_overlays"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

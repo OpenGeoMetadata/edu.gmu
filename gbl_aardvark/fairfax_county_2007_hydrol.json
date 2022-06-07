@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "Fairfax County Government",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Hydrological locations, Fairfax County, VA 1999",
+  "dct_description_sm": [
+    "This layer contains the water features that were visible on the 1997 ortho photography. This contains streams, rivers, lakes, ponds, swamps, paved ditches, and dams. There are many stream segments that are not connected. This is where the technician could not see the water on the model. The streams and rivers that are less then 20 feet in width are depicted as a single line where if they are greater than 20 feet they are a 2 line feature. The paved ditches are a polygon feature. The polygon features do not have center lines for flow of water."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "River",
+    "Lake",
+    "Pond"
+  ],
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "locn_geometry": "ENVELOPE(-77.544, -77.0343, 39.0677, 38.6018)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":fairfax_county_2007_hydrol",
+  "id": "gmu-fairfax-county-2007-hydrol",
+  "dct_identifier_sm": [
+    "GMU.fairfax_county_2007_hydrol"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1997-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

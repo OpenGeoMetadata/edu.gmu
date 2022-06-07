@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "African American Heritage Trail location, Washington, DC 2004",
+  "dct_description_sm": [
+    "The dataset represents the locations and attributes of African American Heritage Trail locations in Washington, DC 2004"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Trail",
+    "Culture",
+    "Tourism",
+    "Landmark"
+  ],
+  "gbl_indexYear_im": [
+    4
+  ],
+  "locn_geometry": "ENVELOPE(-77.0985, -76.9278, 38.9855, 38.8435)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_aahtrailpt",
+  "id": "gmu-washington-dc-2005-aahtrailpt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_aahtrailpt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

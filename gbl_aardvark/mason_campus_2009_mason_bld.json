@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Buildings of George Mason University, Fairfax campus,  VA 2009",
+  "dct_description_sm": [
+    "This polygons represents buildings on the Fairfax campus in George Mason University in 2009.  "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "Boundary",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "locn_geometry": "ENVELOPE(-77.3156, -77.3, 38.8356, 38.8252)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":mason_campus_2009_mason_bld",
+  "id": "gmu-mason-campus-2009-mason-bld",
+  "dct_identifier_sm": [
+    "GMU.mason_campus_2009_mason_bld"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2009-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Fairfax, VA",
+    "George Mason University"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

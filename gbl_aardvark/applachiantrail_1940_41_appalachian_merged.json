@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Appalachian Trail Line in Southern VA, 1940-1941 (vector data)",
+  "dct_description_sm": [
+    "This line layer represents a merged  vector layer from two layers digitized from the image of the historic paper map entitled: PACT Map 13 (1940).jpg by Potomac Appalachian Trail Club, prepared by David Dick and the  PACT map 14 (1941).jpg produced by Potomac Appalachian Trail Club, drafted by E.P. Schreier and edited by Myron Avery.  The original scale of PACT maps were unknown.  \n\n "
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Raster"
+  ],
+  "dct_subject_sm": [
+    "location",
+    "transportation",
+    "APPALACHIAN",
+    "TRAIL"
+  ],
+  "gbl_indexYear_im": [
+    1940
+  ],
+  "locn_geometry": "ENVELOPE(-81.8353, -79.8302, 37.4363, 36.5532)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "GeoTIFF",
+  "gbl_wxsIdentifier_s": ":applachiantrail_1940_41_appalachian_merged",
+  "id": "gmu-applachiantrail-1940-41-appalachian-merged",
+  "dct_identifier_sm": [
+    "GMU.applachiantrail_1940_41_appalachian_merged"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1940-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Southern Virginia",
+    "Appalachian"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

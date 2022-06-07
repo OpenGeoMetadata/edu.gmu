@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Fireboxes, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon layer represents firebox locations, Arlington County, VA 2003."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "location"
+  ],
+  "gbl_indexYear_im": [
+    172
+  ],
+  "locn_geometry": "ENVELOPE(-77.173512135, -77.030478078, 38.934896941, 38.826791527)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_firebox_poly",
+  "id": "gmu-arlington-2004-firebox-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_firebox_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0172-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA",
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

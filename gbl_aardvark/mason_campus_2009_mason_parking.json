@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Parking Lots of George Mason University,  Fairfax campus, VA 2009",
+  "dct_description_sm": [
+    "This represents polygons of the parking lots on the Fairfax campus, George Mason University, VA in 2009"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Parking, ",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "locn_geometry": "ENVELOPE(-77.3175, -77.3, 38.8353, 38.8244)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":mason_campus_2009_mason_parking",
+  "id": "gmu-mason-campus-2009-mason-parking",
+  "dct_identifier_sm": [
+    "GMU.mason_campus_2009_mason_parking"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2010-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "George Mason University"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

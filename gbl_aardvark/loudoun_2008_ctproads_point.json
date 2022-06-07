@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "County Transportation Planned Roads, Loudoun County, VA (2001)",
+  "dct_description_sm": [
+    "This feature class includes existing and planned alignments, functional classification, planned interchanges, scenic byways and ultimate roadway geometry for all of Loudoun County. Please note that the planned roadway alignments shown are conceptual and are subject to further engineering.   Loudoun County recognizes the importance of roadway planning by including existing and planned roadway alignments as a map element of the Revised County wide Transportation Plan adopted on July 23, 2001."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "planningCadastre",
+    "transportation",
+    "planned roads",
+    "roadway alignments"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "locn_geometry": "ENVELOPE(-77.8369, -77.4723, 39.3214, 38.9132)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_ctproads_point",
+  "id": "gmu-loudoun-2008-ctproads-point",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_ctproads_point"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2001-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

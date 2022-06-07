@@ -1,0 +1,38 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Home Again, Washington, DC 2002",
+  "dct_description_sm": [
+    "This dataset represents the vacant residential properties that was converted by the Home Again Initiative in Washington, DC 2002\n\nIn January 2002, Mayor Anthony A. Williams introduced his Home Again Initiative to transform vacant and abandoned residential properties into single-family home ownership opportunities for residents. By increasing home ownership and eliminating blight, Home Again helps to stabilize neighborhoods and contribute to local economic sustainability. \n\nCurrently, Home Again focuses on neighborhoods with high concentrations of vacant and abandoned residential property: Columbia Heights, Ivy City/Trinidad, Near Northeast, Shaw/Ledroit Park, and Rosedale. The residents in these communities also identified rehabilitating vacant and abandoned properties as a high priority in their Strategic Neighborhood Action Plans (SNAPs)."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Home Again",
+    "Housing",
+    "Vacant ",
+    "Abandoned"
+  ],
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "locn_geometry": "ENVELOPE(-77.0364, -76.9701, 38.9378, 38.8947)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_sde_homeagain",
+  "id": "gmu-washington-dc-2005-sde-homeagain",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_sde_homeagain"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2004-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

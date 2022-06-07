@@ -1,0 +1,34 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Major Roads, Arlington County, VA 2007",
+  "dct_description_sm": [
+    "This dataset represents the Major Roads in Arlington County, VA 2007"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Major Roads"
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "locn_geometry": "ENVELOPE(-77.171, -77.0393, 38.9336, 38.8273)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_majorroad_14400",
+  "id": "gmu-arlington-2011-majorroad-14400",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_majorroad_14400"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

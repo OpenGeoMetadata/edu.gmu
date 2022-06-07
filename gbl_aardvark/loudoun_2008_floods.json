@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Flood Plain Boundaries, Loudoun County, VA 2008",
+  "dct_description_sm": [
+    "The regulatory floodplain boundary reflects the limits of flooding resulting from a storm having an occurrence probability of 1%, identified as the 100 year storm.  The floodplain boundary was recompiled from the listed sources onto the County's 1:2400 scale maps with five foot interval topography.  This floodplain feature class contains polygon feature classes only."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Floods",
+    "Floodplain"
+  ],
+  "gbl_indexYear_im": [
+    1986
+  ],
+  "locn_geometry": "ENVELOPE(-77.9541, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_floods",
+  "id": "gmu-loudoun-2008-floods",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_floods"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1986-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": " Election districts,  Loudoun county, VA 1980",
+  "dct_description_sm": [
+    "This polygon layer represents the election districts of Loudoun County, VA 1980"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "voting district"
+  ],
+  "gbl_indexYear_im": [
+    1980
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.3238, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_elect1980",
+  "id": "gmu-loudoun-2008-elect1980",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_elect1980"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1980-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

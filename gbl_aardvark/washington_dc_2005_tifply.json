@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Tax Increment Financing Location, Washington, DC 2005",
+  "dct_description_sm": [
+    "This dataset represents the locations of attributes of Tax Increment Financing areas in Washington, DC 2005"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Money",
+    "Tax Increment Financing",
+    "Business development"
+  ],
+  "gbl_indexYear_im": [
+    6
+  ],
+  "locn_geometry": "ENVELOPE(-77.0407, -76.9494, 38.9309, 38.8602)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_tifply",
+  "id": "gmu-washington-dc-2005-tifply",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_tifply"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0006-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

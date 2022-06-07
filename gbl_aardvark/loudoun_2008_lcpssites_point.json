@@ -1,0 +1,39 @@
+{
+  "dc_publisher_s": "Loudoun County Public Schools, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Public School Sites, Loudoun County, VA 2008",
+  "dct_description_sm": [
+    "This point data set is used to identify the locations of Loudoun County Public School (LCPS) sites.  The points are the center of parcels owned or operated by LCPS. These sites contain existing school location or proffered school locations."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "location",
+    "society",
+    "Elementary",
+    "Middle",
+    "High"
+  ],
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "locn_geometry": "ENVELOPE(-77.7892, -77.346, 39.2667, 38.8943)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_lcpssites_point",
+  "id": "gmu-loudoun-2008-lcpssites-point",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_lcpssites_point"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2007-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

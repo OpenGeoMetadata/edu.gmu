@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "ADC",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Government Agency Location, Washington, DC 2003",
+  "dct_description_sm": [
+    "This dataset represents the government agency locations in Washington, DC 2003\n"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Facilities",
+    "Municipal Buildings",
+    ""
+  ],
+  "gbl_indexYear_im": [
+    3
+  ],
+  "locn_geometry": "ENVELOPE(-77.0741, -76.9326, 38.9658, 38.8137)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_dcgis_dcagencypt",
+  "id": "gmu-washington-dc-2005-dcgis-dcagencypt",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_dcgis_dcagencypt"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0003-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

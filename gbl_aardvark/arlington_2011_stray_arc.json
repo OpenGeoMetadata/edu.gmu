@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Reciprocal Easement Agreement Stray, Arlington, VA 2010",
+  "dct_description_sm": [
+    "This dataset represents the real estate data, but not part of real property in Arlington, VA 2010  This may include property lines extending beyond the county boundary, shown for reference, or line work included in a right of way to clarify pavement alignments"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_subject_sm": [
+    "Block",
+    "Lot"
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "locn_geometry": "ENVELOPE(-77.1741, -77.0385, 38.9352, 38.8259)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2011_stray_arc",
+  "id": "gmu-arlington-2011-stray-arc",
+  "dct_identifier_sm": [
+    "GMU.arlington_2011_stray_arc"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2010-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

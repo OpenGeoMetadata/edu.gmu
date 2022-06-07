@@ -1,0 +1,35 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Fire Stations, Prince William County, VA",
+  "dct_description_sm": [
+    "This point layer represents fire stations (address with Zip code) in Prince \nWilliam County, VA."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_subject_sm": [
+    "Fire Stations"
+  ],
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "locn_geometry": "ENVELOPE(-77.6665, -77.2518, 38.8811, 38.5527)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":firestations",
+  "id": "gmu-firestations",
+  "dct_identifier_sm": [
+    "GMU.Firestations"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "2009-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Neighborhood Conervation Area's Buffer, Arlington County, VA",
+  "dct_description_sm": [
+    "This polygon layer represents  buffered border areas of Neiighorhood Conservation Area's (NCA\u2019s)."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "boundaries",
+    "conservation"
+  ],
+  "gbl_indexYear_im": [
+    175
+  ],
+  "locn_geometry": "ENVELOPE(-77.173605127, -77.051780716, 38.926532191, 38.827039435)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_nca_buffer",
+  "id": "gmu-arlington-2004-nca-buffer",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_nca_buffer"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0175-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County, VA"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

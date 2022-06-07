@@ -1,0 +1,37 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Planned Land Use, Washington, DC 2006",
+  "dct_description_sm": [
+    "This dataset represents the Planned Land use in Washington, DC 2006"
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Comprehensive Plan Land Use",
+    "Land Use",
+    "Future land use"
+  ],
+  "gbl_indexYear_im": [
+    187
+  ],
+  "locn_geometry": "ENVELOPE(-77.1195, -76.909, 38.996, 38.8031)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":washington_dc_2005_plannedlanduse2006",
+  "id": "gmu-washington-dc-2005-plannedlanduse2006",
+  "dct_identifier_sm": [
+    "GMU.washington_dc_2005_plannedlanduse2006"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0187-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "DC"
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

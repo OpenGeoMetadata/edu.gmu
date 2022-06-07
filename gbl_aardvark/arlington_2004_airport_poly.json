@@ -1,0 +1,41 @@
+{
+  "dc_publisher_s": "",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Airport, Arlington County, VA",
+  "dct_description_sm": [
+    "The Planimetric geodatabase (vector) contains feature classes with coincident boundaries. These feature classes are represented as polygons and include paved medians, driveways, roads, sidewalks, building, bridge and alleys."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "boundaries",
+    "location",
+    "transportation",
+    "Airport"
+  ],
+  "gbl_indexYear_im": [
+    190
+  ],
+  "locn_geometry": "ENVELOPE(-77.04812, -77.03216, 38.86249, 38.84177)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":arlington_2004_airport_poly",
+  "id": "gmu-arlington-2004-airport-poly",
+  "dct_identifier_sm": [
+    "GMU.arlington_2004_airport_poly"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "0190-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Arlington County",
+    "Virginia",
+    "VA",
+    "Arlington County, VA",
+    ""
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}

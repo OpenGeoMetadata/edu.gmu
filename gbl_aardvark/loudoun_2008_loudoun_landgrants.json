@@ -1,0 +1,39 @@
+{
+  "dc_publisher_s": "Loudoun County, VA",
+  "dc_type_s": "Dataset",
+  "dct_title_s": "Original Land grants, Loudoun County, VA 2008",
+  "dct_description_sm": [
+    "The original land grants are the orginal granting of land by Lord Fairfax and/or his agents during the settlement of Virginia and the formation of Loudoun County.  Data was compiled through extensive research of deeds, plats, books, and maps by Loudoun County Historian Wynne C. Saffer.  The original land grants are recorded on United States Geological Survey (USGS) Quadrangle maps, with a scale of 1 inch to 2,000 feet."
+  ],
+  "schema_provider_s": "GMU",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Land grants",
+    "Parcels"
+  ],
+  "gbl_indexYear_im": [
+    1860
+  ],
+  "locn_geometry": "ENVELOPE(-77.9634, -77.324, 39.3262, 38.8443)",
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "Shapefile",
+  "gbl_wxsIdentifier_s": ":loudoun_2008_loudoun_landgrants",
+  "id": "gmu-loudoun-2008-loudoun-landgrants",
+  "dct_identifier_sm": [
+    "GMU.loudoun_2008_loudoun_landgrants"
+  ],
+  "gbl_mdVersion_s": "1.0",
+  "dct_temporal_sm": [
+    "1860-01-01 01:01:01+00:00"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "",
+    ""
+  ],
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://gmutantt.gmu.edu/geoserver/GMUGeodata/wms\"}"
+}
